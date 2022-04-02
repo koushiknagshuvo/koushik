@@ -23,7 +23,30 @@
   .Services_section_Out_cart {
     padding-top: -10px;
   }
-  #ViewAllbtn {
-    text-align: center;
+  .Project_cart_inerclass h4 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 2.5rem;
+    padding-top: 20px;
+  }
+  .Project_cart_inerclass {
+    padding: 10px 10px;
+  }
+  .Educational_work_Section_iner_cart_items h5,
+  .Educational_work_Section_iner_cart_items_paragraph p {
+    text-align: start;
+  }
+  .Educational_work_Section_iner_cart_items_paragraph h5 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 2.5rem;
+  }
+
+  /* .Social_Media_slyder */
+
+  .Social_Media_slyder .item h5 {
+    margin-left: -80px;
+    padding-top: 10px;
+    padding-right: 40px;
   }
 }

@@ -30,7 +30,9 @@ function sendMail(params) {
         to_name:document.getElementById('toName').value,
         message:document.getElementById('msg').value,
     };
-    emailjs.send("gmail", "template_0pxgqff", tempParams)
+    // emailjs.send("gmail", "template_0pxgqff", tempParams)
+    emailjs.send("service_35j0zsw","template_0pxgqff")
+
         .then(function(res) {
             console.log("SUCCESS", res.status);
         })
