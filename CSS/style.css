@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+  --main-color: #3b16fc;
+}
+
 html {
   font-size: 100%;
   box-sizing: border-box;
@@ -35,7 +40,7 @@ a {
 /* nav bar start========================================================== */
 .Main_section_hero {
   background-color: #e7f7fb;
-  height: 100vh;
+  height: 100%;
   width: 100%;
 }
 .navbar-brand img {
@@ -54,7 +59,7 @@ a {
 }
 
 .dropdown-item:hover {
-  background-color: #3b16fc;
+  background-color: var(--main-color);
   color: white;
 }
 
@@ -65,7 +70,7 @@ a {
 }
 .nav-link:hover,
 .nav-link.active {
-  color: #3b16fc !important;
+  color: var(--main-color) !important;
 }
 .bx-chevron-down {
   font-size: 22px;
@@ -74,11 +79,11 @@ a {
   outline-width: 5px;
 }
 .chevron-down:hovver {
-  color: #3b16fc;
+  color: var(--main-color);
 }
 .btn_Sign-UP {
   border: none;
-  background-color: #3b16fc;
+  background-color: var(--main-color);
   padding: 12px 40px;
   color: white;
   font-weight: 500;
@@ -90,7 +95,7 @@ a {
 /* Hero section start========================================================== */
 
 .Hero_section_info a {
-  color: #3b16fc;
+  color: var(--main-color);
   font-weight: 700;
   font-size: 14px;
   line-height: 1.2rem;
@@ -225,7 +230,7 @@ a {
 }
 
 .bg-primary {
-  background-color: #3b16fc !important;
+  background-color: var(--main-color) !important;
 }
 .bg-success {
   background-color: #ea42ea !important;
@@ -317,7 +322,7 @@ a {
   flex-direction: row;
   margin: 25px 0px;
   border: none;
-  background-color: #3b16fc !important;
+  background-color: var(--main-color) !important;
   padding: 15px;
   width: 100%;
   color: white;
