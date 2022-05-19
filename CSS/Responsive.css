@@ -19,9 +19,9 @@
     padding-top: 5rem;
     background-color: #e7f7fb;
   }
-  .Services_section {
-    padding-top: 8rem;
-  }
+  /* .Services_section {
+    padding-top: 2rem;
+  } */
   .Services_section_cart p {
     text-align: start;
   }
