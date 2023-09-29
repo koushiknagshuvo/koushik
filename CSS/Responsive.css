@@ -25,6 +25,8 @@
   }
   .Services_section_Out_cart {
     padding-top: -10px;
+    margin-top: -12px;
+    margin-left: -10px !important;
   }
 
   .Project_section .ViewAllbtn_container {
@@ -40,6 +42,15 @@
   .Project_cart_inerclass {
     padding: 10px 10px;
   }
+.Educational_Section_cart h4 {
+  text-align: center;
+  margin-top: -80px;
+
+}
+.work_Section_cart h4{
+  text-align: center;
+}
+
   .Educational_work_Section_iner_cart_items h5,
   .Educational_work_Section_iner_cart_items_paragraph p {
     text-align: start;
