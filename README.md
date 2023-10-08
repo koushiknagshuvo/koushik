@@ -43,10 +43,10 @@ Here are some of the skills I bring to the table:
 
 ## Portfolio
 
-You can check out some of my work and projects on my [portfolio website](https://www.example.com).
+You can check out some of my work and projects on my [portfolio website](https://koushiknagshuvo.github.io/koushiknag/).
 
 ## Contact
 
-Feel free to reach out to me at [email@example.com](mailto:email@example.com) for collaboration or inquiries. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out to me at [koushiknagshuvo@gmail.com](mailto:koushiknagshuvo@gmail.com) for collaboration or inquiries. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/koushik-nag-shuvo-bb46a4196/).
 
 Let's create amazing web experiences together!
