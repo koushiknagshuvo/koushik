@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! I'm Koushik Nag Shuvo, a Laravel web developer and a UI/UX designer. This portfolio showcases my skills, projects, and experiences.
 
+![Designer & Developer](https://github.com/koushiknagshuvo/koushiknag/blob/main/Koushik%20Nag%20protfolio.jpg)
+
 ## About Me
 
 I'm passionate about crafting web applications with Laravel and creating delightful user interfaces. With a strong background in both development and design, I bring a unique blend of technical and creative skills to every project.
